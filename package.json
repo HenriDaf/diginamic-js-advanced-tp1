@@ -1,0 +1,14 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "tp3",
+  "main": "planet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henri Daffot",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
