@@ -4,7 +4,8 @@
   "description": "tp3",
   "main": "planet.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	  "app": "node app.js"
   },
   "author": "Henri Daffot",
   "license": "ISC",
